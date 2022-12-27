@@ -1,0 +1,10 @@
+Classe chamada Fatura para que uma loja de suprimentos de informática possa
+utilizá-la para representar uma fatura de um item vendido na loja. Uma fatura deve incluir
+quatro partes, sendo o número da fatura (int), a descrição da fatura (String), quantidade de
+itens comprados (int) e preço unitário do produto (float). Criar os métodos:
+a) Métodos set e get para os atributos
+b) Método de nome calculaFatura que retorna o total da fatura (quantidade * preço)
+c) Método de nome somaFaturas que recebe outra fatura e retorna o preço total da soma das
+faturas
+d) Método de nome aplicaDesconto que recebe um valor de desconto(int) e aplica esse
+desconto no preço individual do item.

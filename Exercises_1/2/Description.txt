@@ -1,0 +1,3 @@
+Programa que leia a quantidade e o valor de três produtos, no seguinte formato:
+qtde1 valor1, qtde2 valor2, qtde3 valor3. O programa deve calcular a seguinte fórmula:
+(qtde1*valor1 + qtde2*valor2 + qtde3*valor3). O total deve ser impresso na tela.

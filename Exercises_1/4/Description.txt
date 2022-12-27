@@ -1,0 +1,2 @@
+Programa que leia uma temperatura em graus Celsius e converta-a para graus
+Fahrenheit. A fórmula de conversão é: F = (9 * C + 160) / 5.

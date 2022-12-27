@@ -1,0 +1,2 @@
+Programa que leia um número inteiro e mostre na tela o quadrado deste valor.
+
