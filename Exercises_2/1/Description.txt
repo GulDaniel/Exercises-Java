@@ -1,0 +1,1 @@
+Programa que leia um número inteiro e imprima se é par ou ímpar.

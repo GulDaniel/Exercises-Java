@@ -1,0 +1,3 @@
+Programa para calcular e mostrar o salário reajustado de um funcionário:
+até 300,00 - 35%
+acima de 300,00 - 15%

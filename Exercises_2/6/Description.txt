@@ -1,0 +1,9 @@
+Programa que leia o valor total de uma compra e o número de parcelas, mostrando o valor
+de cada parcela de acordo com a tabela de juros.
+Parcelas    Juros(%)
+1           0
+2           2.5
+5           4.5
+10          8.45
+18          12
+24          15

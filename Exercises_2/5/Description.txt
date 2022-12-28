@@ -1,0 +1,12 @@
+Programa que receba idade e peso do usuário e indique o grupo de risco:
+
+Menores de 20 anos até 60kg: 9
+Menores de 20 anos entre 60kg e 90kg: 8
+Menores de 20 anos acima de 90kg: 7
+De 20 a 50 anos até 60kg: 6
+De 20 a 50 anos entre 60kg e 90kg: 5
+De 20 a 50 anos acima de 90kg: 4
+Acima de 50 anos até 60kg: 3
+Acima de 50 anos entre 60kg e 90kg: 2
+Acima de 50 anos acima de 90kg: 1
+

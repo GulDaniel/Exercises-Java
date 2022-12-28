@@ -1,0 +1,9 @@
+Programa que exibe um menu ao usuário:
+1- nome
+2- idade
+3- nacionalidade
+4- sair
+Utilizando switch e recebendo as informações do usuário:
+1- solicite o nome e dê uma mensagem de boas vindas
+2- solicite a idade e mostre se o usuário é maior de 18 anos
+3- solicite a nacionalidade e se for brasileiro dê os parabéns
