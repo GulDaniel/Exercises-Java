@@ -1,0 +1,2 @@
+Programa que efetue a soma de todos os números ímpares que são múltiplos de 3 e que se
+encontram no conjundo dos números de 1 (inclusivo) a 500.

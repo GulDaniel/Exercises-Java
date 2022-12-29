@@ -1,0 +1,2 @@
+Programa que leia as médias dos alunos de uma sala até que seja digitado uma nota
+negativa e exibir a quantidade de alunos aprovados (média >= 6)

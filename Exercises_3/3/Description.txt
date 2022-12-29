@@ -1,0 +1,6 @@
+Programa que calcule a mudança de salário de um funcionário:
+O funcionário recebe aumento anualmete;
+Contratado em 1995, com salário inicial de 1000,00
+Em 1996 recebeu 1.5% de aumento sobre o salário inicial
+A partir de 1997 (inclusivo) os aumentos correspondem ao dobro do percentual
+do ano anterior

@@ -1,0 +1,2 @@
+Programa que leia as idades de n pessoas até que seja digitado 0 e exiba a porcentagem
+de adolescentes (14 a 17 anos)
