@@ -1,0 +1,2 @@
+Programa que leia o preço de 15 produtos, calcula e exibe:
+Maior, menor e média dos preços.

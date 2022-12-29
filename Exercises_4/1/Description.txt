@@ -1,0 +1,12 @@
+Em uma eleição presidencial existem quatro candidatos. Os votos
+são informados por código. Os dados utilizados para a urna
+obedecem à seguinte codificação:
+1, 2, 3, 4 = voto para os respectivos candidatos;
+5 = voto nulo;
+6 = voto em branco.
+Exibir:
+o total de votos para cada candidato e seu percentual sobre o total;
+o total de votos nulos e seu percentual sobre o total;
+o total de votos em branco e seu percentual sobre o total;
+Receber os votos até que seja digitado o valor 0.
+
