@@ -1,0 +1,15 @@
+Classe que representará um Funcionário de uma Empresa. Com atributos tais como:
+- matrícula (Inteiro)
+- nome
+- idade
+- cargo
+- salário
+
+Getters e Setters.
+
+Cosntrutores:
+Sem parâmetros, mas deve iniciar o valor do salário com R$ 1.500,00;
+Como parâmetro o nome e a idade do funcionário, e preencher estes dois campos com os valores recebidos;
+Como parâmetro o número de matrícula, o nome, e o salário, e preencher estes três campos com os valores recebidos.
+
+Testar os construtores.

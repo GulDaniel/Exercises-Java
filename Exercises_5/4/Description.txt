@@ -1,0 +1,7 @@
+Classe Calculo sem atributos. Métodos:
+- calculo que recebe dois números inteiros como parâmetros, e ao final 
+retorna a soma destes dois números.
+- calculo que recebe três números inteiros como parâmetros, e ao final 
+retorna a multiplicação destes três números.
+- calculo (o mesmo dos itens anteriores), que recebe dois números de ponto
+flutuante como parâmetros, e ao final retorna a divisão destes dois números.

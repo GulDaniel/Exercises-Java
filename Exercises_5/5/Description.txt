@@ -1,0 +1,12 @@
+Classe funcionário com construtor sem parâmetros que inicia
+o cargo como assistente e construtor com parâmetros.
+
+Getters e Setters.
+
+Funcionario
+- int cracha
+- float salario
+- String cargo
+
+public Funcionario();
+public Funcionario(int cracha, float salario, String cargo);

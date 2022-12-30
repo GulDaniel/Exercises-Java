@@ -1,0 +1,10 @@
+Classe Conta
+
+- construtor sem parâmetros que deverá sempre inicializar a
+conta com 0 e a agencia com 0.
+- construtor com parâmetros.
+
+Classe de teste TestaConta com 3 objetos.
+Método imprimirEstado.
+
+Getters e Setters.

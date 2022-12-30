@@ -1,0 +1,15 @@
+Criar construtores para a classe cronômetro de forma que:
+1. Sem informar nada (inicializar hora, minuto e segundo com 0);
+2. Informando-se somente a hora e o minuto, e inicializando o segundo com 1;
+3. Informando-se somente a hora, e inicializando o minuto e o segundo com 1.
+4. Informando-se hora, minuto e segundo e já inicializando estes valores conforme passados. 
+
+Cronometro
+-int hora
+-int minuto
+-int segundo
+
+public Cronometro()
+public Cronometro(int hora)
+public Cronometro(int hora, int minuto)
+public Cronometro(int hora, int minuto, int segundo)
