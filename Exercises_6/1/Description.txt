@@ -1,0 +1,19 @@
+Classe Carro herda de Veiculo, testar Carro:
+
+Veiculo
+- String chassi
+- int ano
+
+public Veiculo()
+public Veiculo(String c, int a)
+
+Getters e Setters.
+
+Carro
+- String montadora
+- int nPortaas
+
+public Carro()
+public Carro(String c, int a, String m, int np)
+
+Getters e Setters.

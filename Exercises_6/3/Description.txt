@@ -1,0 +1,3 @@
+Classe Conta com saldo e métodos depositar e sacar, saldo pode ser negativo.
+Subclasse Poupanca com atributo diaRendimento do tipo int, com get e set,
+saldo não pode ser negativo.

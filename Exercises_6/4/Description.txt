@@ -1,0 +1,28 @@
+Classe Pessoa com atributos nome (String) e sobrenome (String), com getters e
+setters, método getNomeCompleto sem parâmetros e retorna a concatenação dos
+atributos nome e sobrenome. Construtor sem parâmetros e com ambos parâmetros.
+
+Subclasse Funcionario com atributos matricula (int), salario (double), com
+getters e setters. Salário não pode ser negativo e é recebido em duas parcelas, 
+60-40. Métodos getSalarioPrimeiraParcela e getSalarioSegundaParcela.
+
+Subclasse Professor que recebe o salário em parcela única, portanto o método
+getSalarioSegundaParcela retorna 0,
+
+Classe UsaPessoa para instanciar os objetos:
+pessoa1 (Pessoa)
+nome: Mario
+sobrenome: Lopes
+
+pessoa2 (Funcionario)
+nome: Lucas
+sobrenome: Mendes
+salario: 2000
+
+pessoa1 (Professor)
+nome: Rafael
+sobrenome: Lira
+salario: 500
+
+Exibindo nome completo e valores da primeira e segunda parcela do salário
+apenas de pessoa2 e pessoa3.

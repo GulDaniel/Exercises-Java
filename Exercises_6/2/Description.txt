@@ -1,0 +1,34 @@
+Classe Gerente e Vendedor herdam de Empregado, que assim como Cliente
+herda de Pessoa, testar as classes, método valorInss() retorna 11% do salário
+
+Pessoa
+- String nome
+- int idade
+- String sexo
+
+Getters e Setters.
+
+Cliente
+- double valorDivida
+- int anoNascim
+
+Getters e Setters.
+
+Empregado
+- double salario
+- String matricula
+
+- valorInss()
+
+Getters e Setters.
+
+Gerente
+String nomeGerencia
+
+Getters e Setters.
+
+Vendedor
+- doble valorVendas
+- int qntVendas
+
+Getters e Setters.
