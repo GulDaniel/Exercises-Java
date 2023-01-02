@@ -1,0 +1,24 @@
+Classe Hibrido herda de Automovel e implementa ITerra, IAr e IAgua, que 
+herdam de ITipoMovel. Testar um objeto hibrido e seus métodos.
+
+ITipoMovel
+void ligar()
+void aumentarVelocidade(float vel)
+
+IAgua
+void modoAquatico()
+
+ITerra
+void modoTerrestre()
+
+IAr
+void modoAereo
+
+Automovel
+
+- String nome
+- String Fabricante
+
+public Automovel()
+
+Getters e Setters.

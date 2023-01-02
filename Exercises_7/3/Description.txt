@@ -1,0 +1,4 @@
+Classe Principal utiliza interface IEntrada com os métodos 
+String lerTeclado(String) e void apresentar(String)
+Classes EntradaSaidaConsole e EntradaSaidaWin implementam
+IEntrada e seus métodos.

@@ -1,0 +1,8 @@
+Classe abstrata Forma com métodos:
+float calcularArea()
+float calcularPerimetro()
+
+Subclasses Retangulo(atributos lado e altura do tipo float)
+e Circulo(atributo raio do tipo float)
+
+Subclasse Quadrado herda de Retangulo, lado e altura possuem mesmo valor.

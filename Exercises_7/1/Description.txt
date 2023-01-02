@@ -1,0 +1,14 @@
+Superclasse ContaBancaria com subclasses ContaCorrente (senha, número,
+saldo e quantidade de transações realizadas) e ContaPoupanca (senha,
+número, saldo e taxa de rendimento)
+
+Quando uma conta bancária é criada a senha é informada por parâmetro.
+ContaBancaria possui métodos abstratos sacar(double valor), depositar
+(double valor) e tirarExtrato(). Método alterarSenha que recebe senha
+por parâmetro e confirma a senha anterior, somente se correta a nova
+senha é atribuída.
+
+Getters e Setters nas subclasses.
+
+Testar perguntando ao usuário qual o tipo da conta.
+Realizar saque, depósito e extratos, exibindo o estado.

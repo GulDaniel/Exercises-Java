@@ -1,0 +1,28 @@
+Classe Comissionado herda de Mensalista, que herda de Funcionario
+e implementa IGeral, assim como Diarista. Testar as classes.
+
+Funcionario
+- String nome
+- String carteiraProfissional
+
+Getters e Setters.
+
+IGeral
+void imprimirDados()
+
+Diarista
+- float valorDia
+- int qtdedias
+
+Getters e Setters.
+
+Mensalista
+- float salario
+-int diasfaltosos
+
+Getters e Setters.
+
+Comissionado
+-float valorcomissao
+
+Getters e Setters.
