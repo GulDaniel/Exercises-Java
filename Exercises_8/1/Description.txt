@@ -1,0 +1,6 @@
+Classe CadastroAluno com menu de opções utilizando ArrayList:
+1) Cadastrar Aluno
+2) Pesquisar por nome exato
+3) Pesquisa por faixa etária
+4) Limpar Cadastro
+5) Sair

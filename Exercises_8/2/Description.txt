@@ -1,0 +1,11 @@
+Classe CadastroEstados com o seguinte menu utilizando ArrayList:
+1) Cadastrar Estados
+2) Pesquisar por nome exato 
+3) Pesquisa por sigla do estado 
+4) Excluir algum estado pelo nome exato
+5) Limpar Cadastro
+6) Exibir o tamanho do vetor
+7) Mostrar os valores dos atributos
+estado de um determinado objeto
+8) Mostrar posição com sigla
+9) Sair
