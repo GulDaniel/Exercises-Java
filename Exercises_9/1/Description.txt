@@ -1,0 +1,9 @@
+Classe Country representando um país com os atributos: código ISO,
+nome, população e dimensão em km quadrados. Cada país mantém uma
+lista de outros países com os quais faz fronteira.
+Construtor com código ISO, nome e dimensão.
+Getters e Setters.
+Método para verificar se dois países são iguais através do ISO.
+Método para verificar se países são limítrofes.
+Método que retorne a densidade populacional de um país.
+Método que retorna a lista de países vizinhos.

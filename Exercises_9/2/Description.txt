@@ -1,0 +1,10 @@
+Classe Conjunto, representando um conjunto de tamanho variável
+de elementos String.
+Método para adicionar elementos(sem duplicata)
+Método que verifica um elemento no conjunto.
+Médoto união que retorne um novo conjunto sendo a união de dois
+conjuntos, sem duplicata
+Método inter que retorne um novo conjunto sendo a intersecção
+de dois conjuntos, sem duplicata.
+Método menos que retorne um novo conjunto sendo a diferença de
+dois conjuntos, sem duplicata.
