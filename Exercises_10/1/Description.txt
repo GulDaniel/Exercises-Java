@@ -1,0 +1,8 @@
+Classe ContaAgua com atributos número, mês e ano (int) e metros 
+cúbicos (float). Método calculaValor que retorna a quantidade
+de metros cúbicos * 13.64 e imprimir dados com as informações
+da conta de água.
+
+Getters e Setters.
+
+Classe TesteContaAgua para instanciar e testar os métodos.

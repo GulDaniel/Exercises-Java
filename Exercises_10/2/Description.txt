@@ -1,0 +1,26 @@
+Classe Produtos que recebe o valor de um produto, categoria dentre
+limpeza, alimentação e vestuário e situação do produto, necessitando
+ou não refrigeração. Exibe valor do aumento, desconto, novo preço e 
+classificação do produto.
+
+Preço menor ou igual a 25:
+Categoria 1 - taxa de 5%
+Categoria 2 - taxa de 8%
+Categoria 3 - taxa de 10%
+
+Preço acima de 25:
+Categoria 1 - taxa de 12%
+Categoria 2 - taxa de 15%
+Categoria 3 - taxa de 18%
+
+Produtos de categoria 2 tem desconto de 5% se precisarem de refrigeração
+e 8% se não precisarem
+
+Novo preço abaixo de 50:
+Classificação - Barato
+
+Novo preço acima de 50 e menor que 121:
+Classificação - Normal
+
+Novo preço acima de 120:
+Classificação - Caro
